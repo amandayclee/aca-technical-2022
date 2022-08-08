@@ -2,7 +2,7 @@
 ## This is a side project for Adobe Career Academy.
 
 
-Hello Everyone! My name is BMO.
+Hello Everyone! My name is BMO. 
 I’m here to provide you news and weather information. You can also write down to do list.
 :slack: Just check out the following instruction!
 • type word news to get today’s digest
